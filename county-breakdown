@@ -1,0 +1,25 @@
+texasRRC = {
+        '1': ['Atascosa County', 'Bandera County', 'Bastrop County', 'Bell County', 'Bexar County', 'Blanco County', 'Burnet County', 'Caldwell County', 'Comal County', 'Dimmit County', 'Edwards County', 'Frio County', 'Gillespie County', 'Gonzales County', 'Guadalupe County', 'Hays County', 'Kendall County', 'Kerr County', 'Kinney County', 'La Salle County', 'Llano County', 'McMullen County', 'Mason County', 'Maverick County', 'Medina County', 'Milam County', 'Real County', 'Travis County', 'Uvalde County', 'Val Verde County', 'Williamson County', 'Wilson County', 'Zavala County'],
+
+        '2': ['Bee County', 'Calhoun County', 'DeWitt County', 'Goliad County', 'Jackson County', 'Karnes County', 'Lavaca County', 'Live Oak County', 'Refugio County', 'Victoria County'],
+        
+        '3': ['Austin County', 'Brazoria County', 'Brazos County', 'Burleson County', 'Chambers County', 'Colorado County', 'Fayette County', 'Fort Bend County', 'Galveston County', 'Grimes County', 'Hardin County', 'Harris County', 'Jasper County', 'Jefferson County', 'Lee County', 'Liberty County', 'Madison County', 'Matagorda County', 'Montgomery County', 'Newton County', 'Orange County', 'Polk County', 'San Jacinto County', 'Trinity County', 'Tyler County', 'Walker County', 'Waller County', 'Washington County', 'Wharton County'],
+
+        '4': ['Aransas County', 'Brooks County', 'Cameron County', 'Duval County', 'Hidalgo County', 'Jim Hogg County', 'Jim Wells County', 'Kenedy County', 'Kleberg County', 'Nueces County', 'San Patricio County', 'Starr County', 'Webb County', 'Willacy County', 'Zapata County'],
+        
+        '5': ['Bosque County', 'Collin County', 'Dallas County', 'Delta County', 'Ellis County', 'Falls County', 'Fannin County', 'Freestone County', 'Henderson County', 'Hill County', 'Hopkins County', 'Hunt County', 'Johnson County', 'Kaufman County', 'Lamar County', 'Leon County', 'Limestone County', 'McLennan County', 'Navarro County', 'Rains County', 'Robertson County', 'Rockwall County', 'Tarrant County', 'Van Zandt County'],
+        
+        '6': ['Anderson County', 'Angelina County', 'Bowie County', 'Camp County', 'Cass County', 'Cherokee County', 'Franklin County', 'Gregg County', 'Harrison County', 'Houston County', 'Marion County', 'Morris County', 'Nacogdoches County', 'Panola County', 'Red River County', 'Rusk County', 'Sabine County', 'San Augustine County', 'Shelby County', 'Smith County', 'Titus County', 'Upshur County', 'Wood County'],
+        
+        '7B': ['Brown County', 'Callahan County', 'Coleman County', 'Comanche County', 'Coryell County', 'Eastland County', 'Erath County', 'Fisher County', 'Hamilton County', 'Haskell County', 'Hood County', 'Jones County', 'Lampasas County', 'Mills County', 'Nolan County', 'Palo Pinto County', 'Parker County', 'San Saba County', 'Schackleford County', 'Somervell County', 'Stephens County', 'Stonewall County', 'Taylor County', 'Throckmorton County'],
+        
+        '7C': ['Coke County', 'Concho County', 'Crockett County', 'Irion County', 'Kimble County', 'McCulloch County', 'Menard County', 'Reagan County', 'Runnels County', 'Schleicher County', 'Sutton County', 'Terrell County', 'Tom Green County', 'Upton County'],
+        
+        '8': ['Andrews County', 'Brewster County', 'Crane County', 'Culberson County', 'Ector County', 'El Paso County', 'Glasscock County', 'Howard County', 'Hudspeth County', 'Jeff Davis County', 'Loving County', 'Martin County', 'Midland County', 'Mitchell County', 'Pecos County', 'Presidio County', 'Reeves County', 'Sterling County', 'Ward County', 'Winkler County'],
+        
+        '8A': ['Bailey County', 'Borden County', 'Cochran County', 'Cottle County', 'Crosby County', 'Dawson County', 'Dickens County', 'Floyd County', 'Gaines County', 'Garza County', 'Hale County', 'Hockley County', 'Kent County', 'King County', 'Lamb County', 'Lubbock County', 'Lynn County', 'Motley County', 'Scurry County', 'Terry County', 'Yoakum County'],
+        
+        '9': ['Archer County', 'Baylor County', 'Clay County', 'Cooke County', 'Denton County', 'Foard County', 'Grayson County', 'Hardeman County', 'Jack County', 'Knox County', 'Montague County', 'Wichita County', 'Wilbarger County', 'Wise County', 'Young County'],
+        
+        '10': ['Armstrong County', 'Briscoe County', 'Carson County', 'Castro County', 'Childress County', 'Collingsworth County', 'Dallam County', 'Deaf Smith County', 'Donley County', 'Gray County', 'Hall County', 'Hansford County', 'Hartley County', 'Hemphill County', 'Hutchinson County', 'Lipscomb County', 'Moore County', 'Ochiltree County', 'Oldham County', 'Parmer County', 'Potter County', 'Randall County', 'Roberts County', 'Sherman County', 'Swisher County', 'Wheeler County']
+    }
