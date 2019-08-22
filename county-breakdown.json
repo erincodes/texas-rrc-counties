@@ -1,4 +1,7 @@
 texasRRC = {
+        # RRC District Code: Counties in Texas that make up that Texas RRC district
+        # Source: https://www.rrc.state.tx.us/about-us/organization-activities/rrc-locations/counties-by-dist/
+        
         '1': ['Atascosa County', 'Bandera County', 'Bastrop County', 'Bell County', 'Bexar County', 'Blanco County', 'Burnet County', 'Caldwell County', 'Comal County', 'Dimmit County', 'Edwards County', 'Frio County', 'Gillespie County', 'Gonzales County', 'Guadalupe County', 'Hays County', 'Kendall County', 'Kerr County', 'Kinney County', 'La Salle County', 'Llano County', 'McMullen County', 'Mason County', 'Maverick County', 'Medina County', 'Milam County', 'Real County', 'Travis County', 'Uvalde County', 'Val Verde County', 'Williamson County', 'Wilson County', 'Zavala County'],
 
         '2': ['Bee County', 'Calhoun County', 'DeWitt County', 'Goliad County', 'Jackson County', 'Karnes County', 'Lavaca County', 'Live Oak County', 'Refugio County', 'Victoria County'],
